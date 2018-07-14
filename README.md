@@ -1,2 +1,2 @@
 # emscode
-Education management System
+Education Management System
